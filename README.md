@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dheeraj Krishna</h1>
 
-- 🔭 I’m currently working With [NAC BOTS](t.me/nacbots)
+- 🔭 I’m currently working With [NAC BOTS](https://t.me/nacbots)
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **Web Development**
 
-- Our bots [Click here](t.me/nacbots/1)
+- Our bots [Click here](https://t.me/nacbots/1)
 
 - 👨‍💻 All of my projects are available at [My Repos](https://github.com/dheerxj)
 
@@ -21,12 +21,7 @@
 
 
  <p align="center"> 
-<a href="https://codepen.io/naccreative" target="blank"><img align="center" src="https://github.com/nikhileashy/nikhileashy/blob/main/icons/codepen-01.svg" alt="naccreative" height="45" width="45" />
- </a>
-<a href="https://stackoverflow.com/users/naccreative" target="blank"><img align="center" src="https://github.com/nikhileashy/nikhileashy/blob/main/icons/stackoverflow-01-01.svg" alt="naccreative" height="45" width="45" align="center" />
- </a>
- <a href="https://t.me/nacbots"><img src="https://github.com/nikhileashy/nikhileashy/blob/main/icons/telegram-01.svg" alt="image-processing20210405-32501-doifx3" border="0" height="48" width="60" align="center" />
- </a>
+
 <a href="https://instagram.com/dheeraj_2324"><img src="https://github.com/nikhileashy/nikhileashy/blob/main/icons/instagram-01.svg" alt="371907300-INSTAGRAM-ICON-TRANSPARENT-1080"
  hight="53" align="center" width="50" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'>
  </a>
