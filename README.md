@@ -50,7 +50,7 @@
 <summary>🔹 More...</summary>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nikhileashy/nikhileashy/main/github-metrics.svg" alt="metrix"></center>
+  <img src="https://raw.githubusercontent.com/dheerxj/dheerxj/main/github-metrics.svg" alt="metrix"></center>
 </p>
 <details>
  <summary>Contribution Snake 🐍</summary>
